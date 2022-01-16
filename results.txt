@@ -1,0 +1,7 @@
+curl.exe https://curling.code.cool/
+curl.exe  https://curling.code.cool/first-step
+curl  https://curling.code.cool/parameterizing?yarrof
+curl -v  https://curling.code.cool/parameterizing?yarrof
+curl https://curling.code.cool/headers
+curl https://curling.code.cool/finish?github=yarrof
+ "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." ― Martin Fowler
